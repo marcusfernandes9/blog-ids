@@ -1,5 +1,17 @@
 /* stylelint-disable selector-list-comma-newline-after */
 
+.img-empty1{
+  background-color: #999;width: 100%;
+}
+
+.img-empty2{
+  background-color: #999 ;width: 100%;
+}
+
+.img-empty3{
+  background-color: #999 ;width: 100%; height: 250px;
+}
+
 .blog-header {
   line-height: 1;
   border-bottom: 1px solid #e5e5e5;
@@ -99,11 +111,10 @@ h1, h2, h3, h4, h5, h6 {
  * Blog posts
  */
 .blog-post {
-  margin-bottom: 4rem;
+  margin-bottom: 20px;
 }
 .blog-post-title {
-  margin-bottom: .25rem;
-  font-size: 2.5rem;
+  margin-bottom: 10px;
 }
 .blog-post-meta {
   margin-bottom: 1.25rem;
@@ -114,12 +125,10 @@ h1, h2, h3, h4, h5, h6 {
  * Footer
  */
 .blog-footer {
-  padding: 2.5rem 0;
+  margin-top: 40px;
   color: #999;
   text-align: center;
-  background-color: #f9f9f9;
-  border-top: .05rem solid #e5e5e5;
+  background-color: #6a4fd6;
+  height: 180px;
 }
-.blog-footer p:last-child {
-  margin-bottom: 0;
-}
+
