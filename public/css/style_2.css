@@ -1,0 +1,148 @@
+/*Estilo dos Títulos*/
+
+.img-logo {
+  max-width: 30%;
+}
+
+h1 {
+  font-size: 42px;
+  font-family: sans-serif;
+  font-family: "Fira Sans", sans-serif;
+  font-weight: bold;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 32px;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+h3 {
+  font-size: 28px;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 24px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 900 !important;
+  color: #ffffff;
+  text-align: center;
+}
+
+h5 {
+  font-size: 22px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300 !important;
+  color: #ffffff;
+  text-align: center;
+  margin-botton: 2px;
+}
+
+.categoria-comportamento {
+  background-color: #37cc98;
+  border-color: #37cc98;
+  font-size: 12px;
+  font-weight: bold;
+  margin-top: 15px;
+  padding: 2px 10px 2px 10px;
+  border-radius: 12px;
+  max-width: 16%;
+  min-width: 16%;
+  color: #ffffff;
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+}
+
+.categoria-negocios {
+  background-color: #ce107b;
+  border-color: #ce107b;
+  font-size: 12px;
+  font-weight: bold;
+  margin-top: 15px;
+  padding: 2px 10px 2px 10px;
+  border-radius: 12px;
+  max-width: 16%;
+  min-width: 16%;
+  color: #ffffff;
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+}
+
+.btn-enviar {
+  margin-top: 15px;
+}
+
+a {
+  color: #7f4ddf;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #7f4ddf;
+  text-decoration: underline;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+}
+
+p {
+  font-weight: normal !important;
+}
+
+.nomes {
+  text-align: left;
+  margin-left: 10%;
+  font-weight: normal !important;
+  color: #ffffff;
+}
+
+.form-newsletter {
+  background-color: #6a4fd6;
+  padding: 50px 50px 50px 50px;
+}
+
+#btn-modal-webinar {
+  background-color: #6a4fd6 !important;
+}
+
+.form-webinar {
+  background-color: #37cc98;
+  padding: 50px 50px 50px 50px;
+}
+
+#cadastro-concluido {
+  color: #ffffff;
+}
+
+.modal-full {
+  min-width: 100%;
+  margin: 0;
+}
+
+.modal-full .modal-content {
+  min-height: 100vh;
+}
+
+.pg2 {
+  display: none;
+}
+
+.pg3 {
+  display: none;
+}
+
+.btn-outline-primary:hover {
+  color: #fff !important;
+  background-color: #6a4fd6 !important;
+  border-color: #6a4fd6 !important;
+}
+
+.btn-outline-primary {
+  color: #000 !important;
+  border-color: #6a4fd6 !important;
+}
